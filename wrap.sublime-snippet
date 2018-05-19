@@ -1,0 +1,25 @@
+<snippet>
+<content><![CDATA[
+# WHAT HAPPENED
+
+## jay
+$1
+
+
+## sw
+
+
+
+## za
+
+
+
+# ART
+
+
+
+]]></content>
+<tabTrigger>mdw</tabTrigger>
+<description>template for month wrap</description>
+<scope>text.html.markdown</scope>
+</snippet>

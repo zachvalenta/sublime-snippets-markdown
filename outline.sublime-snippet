@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+# TODO
+
+# 参考
+
+# ZA
+
+$1
+
+]]></content>
+<tabTrigger>mdo</tabTrigger>
+<description>template for regular note</description>
+<scope>text.html.markdown</scope>
+</snippet>

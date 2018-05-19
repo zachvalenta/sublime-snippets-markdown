@@ -1,0 +1,39 @@
+<snippet>
+<content><![CDATA[
+# TODO
+
+$1
+
+# PLOT
+
+
+
+# STYLE
+
+
+
+# STRUCTURE
+
+
+
+# THEMES
+
+
+
+# WORDS
+
+
+
+# QUOTES
+
+
+
+# CHARACTER APPEARANCES
+
+
+
+]]></content>
+<tabTrigger>mdf</tabTrigger>
+<description>template for note on fiction</description>
+<scope>text.html.markdown</scope>
+</snippet>

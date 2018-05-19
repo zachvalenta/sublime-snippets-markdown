@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+# $1
+
+## misc
+
+## habits
+
+--- 
+]]></content>
+<tabTrigger>mdd</tabTrigger>
+<description>template for a new day in log note</description>
+<scope>text.html.markdown</scope>
+</snippet>

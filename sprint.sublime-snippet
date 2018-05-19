@@ -1,0 +1,32 @@
+<snippet>
+<content><![CDATA[
+# TODO
+
+## goals
+
+- [ ] __$1__: 
+
+> comments here
+
+## sprint-end
+
+- [ ] tracking 
+- [ ] `/goals`
+- [ ] commit/push notes
+- [ ] 备份
+
+## rn 
+
+---
+
+# DAY
+
+## misc
+
+## habits
+
+]]></content>
+<tabTrigger>mds</tabTrigger>
+<description>template for sprint note</description>
+<scope>text.html.markdown</scope>
+</snippet>

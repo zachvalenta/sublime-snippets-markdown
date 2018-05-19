@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+
+<figure>
+    <img src=".img/$1">
+    <figcaption></figcaption>
+</figure>
+
+]]></content>
+<tabTrigger>mdp</tabTrigger>
+<description>template for image w/ caption</description>
+<scope>text.html.markdown</scope>
+</snippet>
