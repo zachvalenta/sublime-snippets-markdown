@@ -1,0 +1,35 @@
+<snippet>
+<content><![CDATA[
+# JAY
+
+- [ ] __body__: $1
+
+> comments 
+
+- [ ] __soul__: 
+
+> comments
+
+
+# SW
+
+- [ ] __Dark Canary__: 
+
+> comments
+
+- [ ] __IEX/Recurse__: 
+
+> comments
+
+# ZA
+
+- [ ] __dance__: 
+- [ ] __music__: 
+- [ ] __viz__: 
+
+> comments
+]]></content>
+<tabTrigger>mdy</tabTrigger>
+<description>template for month note</description>
+<scope>text.html.markdown</scope>
+</snippet>

@@ -1,0 +1,28 @@
+<snippet>
+<content><![CDATA[
+# JAY
+
+__meditate__: 
+__xoxoxo__: 
+
+__exercise__: 
+__yoga__: 
+
+__WAKE__: 
+__MIDDAY__: 
+__RETURN__: 
+__SLEEP__: 
+
+__errands__: 
+
+# ZA 
+
+__dance__: 
+__music__: 
+__viz__: 
+
+]]></content>
+<tabTrigger>mdt</tabTrigger>
+<description>template for tracking</description>
+<scope>text.html.markdown</scope>
+</snippet>
