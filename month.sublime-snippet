@@ -2,23 +2,14 @@
 <content><![CDATA[
 # JAY
 
-- [ ] __body__: $1
-
-> comments 
-
+- [ ] __body__: 
 - [ ] __soul__: 
-
-> comments
-
+> comments 
 
 # SW
 
 - [ ] __Dark Canary__: 
-
-> comments
-
 - [ ] __IEX/Recurse__: 
-
 > comments
 
 # ZA
@@ -28,6 +19,7 @@
 - [ ] __viz__: 
 
 > comments
+
 ]]></content>
 <tabTrigger>mdy</tabTrigger>
 <description>template for month note</description>
