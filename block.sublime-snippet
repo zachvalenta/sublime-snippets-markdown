@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+* _${1:time}_ __${2:category}__: ${3:doing}
+]]></content>
+<tabTrigger>mdb</tabTrigger>
+<description>block of time</description>
+<scope>text.html.markdown</scope>
+</snippet>
