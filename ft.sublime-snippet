@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+```sh
+rootfile.txt
+├── dir
+│   └── file1.txt
+    └── file2.txt
+```
+]]></content>
+<tabTrigger>ft</tabTrigger>
+<description>code block for file tree</description>
+<scope>text.html.markdown</scope>
+</snippet>
