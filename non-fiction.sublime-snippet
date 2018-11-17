@@ -1,0 +1,25 @@
+<snippet>
+<content><![CDATA[
+# $1
+
+## themes
+
+
+
+## structure
+
+
+
+## style
+
+
+
+## za
+
+
+
+]]></content>
+<tabTrigger>mdnf</tabTrigger>
+<description>template for non-fiction note</description>
+<scope>text.html.markdown</scope>
+</snippet>

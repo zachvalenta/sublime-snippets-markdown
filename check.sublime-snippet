@@ -3,6 +3,6 @@
 - [ ] $1
 ]]></content>
 <tabTrigger>mch</tabTrigger>
-<description>insert checkbox</description>
+<description>insert Markdown checkbox</description>
 <scope>text.html.markdown</scope>
 </snippet>

@@ -32,6 +32,6 @@
 
 ]]></content>
 <tabTrigger>mdf</tabTrigger>
-<description>template for note on fiction</description>
+<description>template for fiction note</description>
 <scope>text.html.markdown</scope>
 </snippet>

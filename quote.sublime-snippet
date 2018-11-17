@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+__$1__
+
+> [$2]
+]]></content>
+<tabTrigger>mdq</tabTrigger>
+<description>insert Markdown quote</description>
+<scope>text.html.markdown</scope>
+</snippet>
