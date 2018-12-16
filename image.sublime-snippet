@@ -2,8 +2,8 @@
 <content><![CDATA[
 
 <figure>
-    <img src=".img/$1">
-    <figcaption></figcaption>
+    <figcaption>$1</figcaption>
+    <img src=".img/$2">
 </figure>
 
 ]]></content>
