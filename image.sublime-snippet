@@ -1,10 +1,8 @@
 <snippet>
 <content><![CDATA[
 
-<figure>
-    <figcaption>$1</figcaption>
-    <img src=".img/$2">
-</figure>
+<figcaption>$1</figcaption>
+<img src=".img/$2">
 
 ]]></content>
 <tabTrigger>mdp</tabTrigger>
