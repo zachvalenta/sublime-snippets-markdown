@@ -1,6 +1,6 @@
 # OVERVIEW
 
-_this repo is_: my Sublime snippets for Markdown note-taking
+Sublime snippets for note-taking using Markdown
 
 __packages I use for Markdown__
 
